@@ -4,6 +4,8 @@ The purpose of this project is to analyze the efficiency of performing the selec
 
 ![image](https://user-images.githubusercontent.com/78992098/124406206-ac019e80-dd0e-11eb-9ad9-ea922103e32d.png)
 
+Download the Benchmark Dist.zip folder, unzip to desktop and run BenchmarkSorts.jar and then BenchmarkReport.jar.
+
 ******************** #BenchmarkSorts.jar ********************
 
 BenchmarkSorts.jar is an executable java file that generates fifty data sets of ten different sizes, incrementing by one-thousand. 
